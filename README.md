@@ -31,9 +31,9 @@ Input (function): exp(x) Output (Taylor expansion): 1 + x + x^2/2! + x^3/3! + ..
 Input (function): tan(x) Output (Taylor expansion): x + x^3/3 + 2x^5/15 + 17x^7/315 + ... </br>
 
 ## Colab link
-> task 1 : https://colab.research.google.com/drive/17LRZZyG8vUHCH1PrxwtLNICDPKcHQ13i?usp=sharing </br>
-> task 2 : https://colab.research.google.com/drive/1tAvAexircJimMbDkTH0-_QAqCu1n5SVb?usp=sharing </br>
-> task 3 : https://colab.research.google.com/drive/1MGZSBqEZ0_DBkM7hkToQnHzfbxaSTYBk?usp=sharing
+> Task 1 : https://colab.research.google.com/drive/17LRZZyG8vUHCH1PrxwtLNICDPKcHQ13i?usp=sharing </br>
+> Task 2 : https://colab.research.google.com/drive/1tAvAexircJimMbDkTH0-_QAqCu1n5SVb?usp=sharing </br>
+> Task 3 : https://colab.research.google.com/drive/1MGZSBqEZ0_DBkM7hkToQnHzfbxaSTYBk?usp=sharing
 
 ## Pdf of output link:
-> link : https://drive.google.com/file/d/1YdCvXBj7ot8fS6cjDhu27mNCf0_2mz0l/view?usp=sharing
+> PDF: https://drive.google.com/file/d/1YdCvXBj7ot8fS6cjDhu27mNCf0_2mz0l/view?usp=sharing
